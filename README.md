@@ -1,73 +1,36 @@
-<h1 align="center">Hey, I’m Vishal Kumar 👋</h1>
+<h1 align="center">👋 Hey, I’m Vishal Kumar</h1>
 <p align="center">
-MERN-Stack Developer • AI Builder .
+  <b>Full-Stack Developer • AI Builder • CSE Undergrad</b><br/>
+  Turning ideas into real, working products 🚀
 </p>
 
 <p align="center">
-I build products that mix <b>real-world problems</b> with <b>modern web & AI</b>.
+  <a href="https://github.com/vishalsaw28">🐙 GitHub</a> •
+  <a href="https://linkedin.com/in/vishalsaw28">💼 LinkedIn</a> •
+  <a href="mailto:vishalssb858@gmail.com">📬 Email</a>
 </p>
 
 ---
 
-## 🧭 My Developer Story
+## 🧭 Who I Am
 
-I’m a Computer Science undergraduate who doesn’t just learn tech — I **use it to build**.  
-From AI-powered career tools to scalable backend systems, I enjoy turning ideas into working products.
-
-I’m especially interested in:
-- **Full-Stack Development**
-- **AI-powered applications**
-- **Clean backend systems**
-- **Products people actually use**
+I’m a **B.Tech Computer Science student** who loves building things that actually solve problems.  
+My main interest is in **full-stack development with AI integration**, where I combine modern web tech with intelligent systems.
 
 ---
 
-## 🚀 Things I’ve Built
+## ⚡ What I’m Doing Right Now
 
-### 🔹 RideAlong — AI Career Guide  
-**Next.js · PostgreSQL · Gemini API · Clerk**
-
-A full-stack AI platform that helps users:
-- Generate resumes & cover letters  
-- Prepare for interviews  
-- Get real-time career feedback  
-
-I handled:
-- Frontend in Next.js  
-- Authentication with Clerk  
-- Database with PostgreSQL  
-- AI integration using Gemini  
-
-This is my most important project — it shows how I mix **AI + real product design**.
+| Focus | Details |
+|------|--------|
+| 🛠 Building | Full-stack & AI powered web apps |
+| 🧠 Learning | Backend architecture & system design |
+| 🚀 Exploring | How AI can improve real-world software |
+| 🎯 Goal | Become a strong Software / Full-Stack Developer |
 
 ---
 
-### 🔹 PathCut — URL Shortener  
-**Next.js · TypeScript · Node.js · MongoDB**
-
-A production-style backend system:
-- Creates unique short links  
-- Stores them in MongoDB  
-- Uses REST APIs with TypeScript  
-- Deployed on Vercel  
-
-Built to learn how **real services scale & persist data**.
-
----
-
-### 🔹 Learn-Music Platform  
-**Next.js · TypeScript · Node.js**
-
-An online learning platform with:
-- User management  
-- Interactive content  
-- Backend services  
-
-Focused on **frontend-backend communication** and clean UI.
-
----
-
-## 🛠 Tech I Work With
+## 🛠 Tech I Use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,git,github,vercel" />
@@ -75,37 +38,16 @@ Focused on **frontend-backend communication** and clean UI.
 
 ---
 
-## 🏆 Things I’m Proud Of
+## 🌍 Let’s Connect
 
-- ⭐ **Shining Star Award** — 2nd & 3rd Year (CSE)  
-- 🥈 **2nd Place** — Inter-College Hackathon  
-- 🧠 Built and shipped **AI-based full-stack products**
-
----
-
-## 👥 Beyond Coding
-
-I’m an active member of **Brain-Logic Club** at Trident Academy of Technology.
-
-I have:
-- Helped organize **3+ hackathons**
-- Mentored **50+ students**
-- Guided teams through **idea → build → presentation**
-
-I enjoy **teaching, leading & building in teams**.
-
----
-
-## 📬 Let’s Connect
-
-- 📧 Email: **vishalssb858@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/vishalsaw28**
-- 🐙 GitHub: **github.com/vishalsaw28**
+| Platform | Link |
+|--------|------|
+| GitHub | **@vishalsaw28** |
+| LinkedIn | https://linkedin.com/in/vishalsaw28 |
+| Email | vishalssb858@gmail.com |
 
 ---
 
 <p align="center">
-If you’re here, you’re probably checking my work —  
-so scroll down and explore my repositories 👇
+  <i>“I don’t just write code — I build things that matter.”</i>
 </p>
-
