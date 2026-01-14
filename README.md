@@ -5,17 +5,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vishalsaw28">🐙 GitHub</a> •
-  <a href="https://linkedin.com/in/vishalsaw28">💼 LinkedIn</a> •
-  <a href="mailto:vishalssb858@gmail.com">📬 Email</a>
+  <a href="https://github.com/vishalsaw28">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/vishalsaw28">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vishalssb858@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28"/>
+  </a>
 </p>
 
----
-
-## 🧭 Who I Am
-
-I’m a **B.Tech Computer Science student** who loves building things that actually solve problems.  
-My main interest is in **full-stack development with AI integration**, where I combine modern web tech with intelligent systems.
 
 ---
 
@@ -33,18 +35,8 @@ My main interest is in **full-stack development with AI integration**, where I c
 ## 🛠 Tech I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nextjs,nodejs,express,mongodb,postgres,html,css,clerk,git,github,vercel" />
 </p>
-
----
-
-## 🌍 Let’s Connect
-
-| Platform | Link |
-|--------|------|
-| GitHub | **@vishalsaw28** |
-| LinkedIn | https://linkedin.com/in/vishalsaw28 |
-| Email | vishalssb858@gmail.com |
 
 ---
 
